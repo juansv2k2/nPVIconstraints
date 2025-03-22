@@ -16,8 +16,7 @@ This repository contains Max/MSP patches and Lisp code for working with nPVI (No
 ## Usage
 
 1. Open the `nPVIConstraints.maxpat` patch in Max/MSP.
-2. Input a musical sequence to evaluate its nPVI index.
-3. Adjust the `minor` and `major` thresholds to set the desired constraints.
+2. Adjust the thresholds to set the desired nPVI constraint.
 
 ## Dependencies
 
