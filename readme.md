@@ -1,4 +1,4 @@
-# nPVIConstraints Project
+# nPVIConstraints
 
 This repository contains Max/MSP patches and Lisp code for working with nPVI (Normalized Pairwise Variability Index) constraints in musical compositions. The project is designed to calculate and evaluate nPVI values for musical sequences and apply constraints to ensure specific musical properties.
 
